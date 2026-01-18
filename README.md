@@ -1,7 +1,9 @@
 ## Build Log
 
 ### 2026/1/11: second flight 
-* **Details:** Successfully preformed second flight. GPS,telemetry,fly by wire working repaired. Tried waypoint mission, waypoint too close, didn't finish whole mission.
+* **Details:** Successfully preformed second flight. Flying normaly. Tried waypoint mission, waypoint too 
+close, didn't finish whole mission.
+
 ![detail](./images/vlcsnap-2026-01-19-01h05m35s367.png)
 
 ---
